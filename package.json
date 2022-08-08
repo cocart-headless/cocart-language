@@ -1,0 +1,35 @@
+{
+	"title": "CoCart Language Package",
+	"name": "cocart-language",
+	"version": "1.0.0",
+	"private": false,
+	"contributors": [
+		"sebd86",
+		"cocartforwc"
+	],
+	"author": "Sébastien Dumont",
+	"author_uri": "https://sebastiendumont.com",
+	"homepage": "https://cocart.xyz/",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/co-cart/cocart-language.git"
+	},
+	"bugs": {
+		"url": "https://github.com/co-cart/cocart-language/issues"
+	},
+	"license": "GPL-3.0",
+	"copyright": "Copyright (c) 2022, Sébastien Dumont",
+	"description": "Experimental plugin to add language support for CoCart.",
+	"tags": "",
+	"keywords": [
+		"wordpress",
+		"package",
+		"woocommerce"
+	],
+	"devDependencies": {
+		"grunt": "1.5.2",
+		"grunt-text-replace": "0.4.0",
+		"load-grunt-tasks": "5.1.0"
+	},
+	"dependencies": {}
+}
